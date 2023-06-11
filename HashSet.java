@@ -1,6 +1,7 @@
 //Using Double Hashing
 //Time Complexity : O(1)
-//Space Complexity : O(n2)
+//Space Complexity : O(1) (Since we are not using any additional spaces in the METHODS)
+//In design problems the complexity we take is always Amortized or Average
 
 class MyHashSet {
     private int buckets;
