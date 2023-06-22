@@ -1,7 +1,8 @@
 //Using Double Hashing
 //Time Complexity : O(1)
 //Space Complexity : O(1) (Since we are not using any additional spaces in the METHODS)
-//In design problems the complexity we take is always Amortized or Average
+// Did this code successfully run on Leetcode : Yes 
+// Any problem you faced while coding this : No
 
 class MyHashSet {
     private int buckets;
